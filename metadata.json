@@ -1,0 +1,6 @@
+{
+  "name": "FrostGuard",
+  "description": "Smart device cooling manager that monitors CPU and battery temperatures, manages heavy background processes, and alerts you when safe thermal limits are exceeded.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

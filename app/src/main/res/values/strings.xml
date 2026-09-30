@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FrostGuard</string>
+    <string name="thermal_status_optimal">Optimal Cooling</string>
+    <string name="thermal_status_warm">Warm - Monitor</string>
+    <string name="thermal_status_hot">Overheating - Action Needed</string>
+    <string name="cool_down_action">Cool Down Now</string>
+    <string name="cooling_in_progress">Optimizing Thermal Systems…</string>
+</resources>
